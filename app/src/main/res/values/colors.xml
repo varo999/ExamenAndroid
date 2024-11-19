@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#003366</color>
+    <color name="sky_blue">#87CEFA</color> <!-- Azul claro para el cielo -->
+    <color name="sky_orange">#FF7F50</color> <!-- Naranja para el atardecer -->
+    <color name="sky_dark">#2F4F4F</color> <!-- Gris oscuro para la noche -->
+</resources>
